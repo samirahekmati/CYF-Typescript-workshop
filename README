@@ -1,0 +1,49 @@
+# 🧪 TypeScript Rock-Paper-Scissors Workshop
+
+Welcome to this beginner-friendly TypeScript workshop!  
+We'll use the classic **Rock-Paper-Scissors** game as a fun way to learn core TypeScript concepts step by step.
+
+---
+
+## 🎯 Workshop Objectives
+
+By the end of this workshop, you will be able to:
+
+✅ **Define and implement interfaces** to enforce consistent object structures  
+✅ **Create and use classes** to model real-world entities  
+✅ **Add methods to classes** to define reusable behaviours  
+✅ **Apply encapsulation** using access modifiers (`private`, `public`)  
+✅ **Use inheritance** to extend behaviours  
+✅ **Work with enums** and **basic testing/assertions**
+
+---
+
+## 📁 File Structure
+
+| File | Concepts Covered |
+|------|------------------|
+| `1-classes.ts` | Interfaces and Classes |
+| `2-methods.ts` | Class Methods |
+| `3-encapsulation.ts` | Private Fields and Accessors |
+| `4-inheritance.ts` | Inheritance, Enums |
+
+---
+
+## 🛠️ How to Use
+
+1. Clone or download this repo.
+2. Open the files in VSCode or your favourite TypeScript playground.
+3. Start from `level-1-classes.ts` and follow the **TODO**s.
+4. Run each file with `ts-node` or in the TypeScript playground.
+5. Tests are provided at the bottom of each file — uncomment after completing the code.
+
+---
+
+## 🔧 Prerequisites
+
+- Basic understanding of JavaScript (variables, functions, objects)
+- [Node.js](https://nodejs.org/en) installed
+- Install TypeScript + ts-node globally:
+
+```bash
+npm install -g typescript ts-node
